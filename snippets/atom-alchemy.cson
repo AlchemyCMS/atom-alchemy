@@ -1,0 +1,24 @@
+'.source.yaml':
+  'Alchemy Pagelayout':
+    'prefix': 'pa'
+    'body': """
+- name: ${1}
+  elements:
+    - ${2}
+  autogenerate:
+    - ${3}
+"""
+  'Alchemy Element':
+    'prefix': 'el'
+    'body': """
+- name: ${1}
+  contents:
+    - name: ${2}
+      type: ${3}
+"""
+  'Alchemy Content':
+    'prefix': 'co'
+    'body': """
+- name: ${1}
+  type: ${2}
+"""

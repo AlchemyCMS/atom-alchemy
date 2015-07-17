@@ -1,0 +1,16 @@
+{
+  "name": "atom-alchemy",
+  "version": "0.1.0",
+  "description": "AlchemyCMS snippets for Atom editor.",
+  "keywords": [
+    "alchemycms", "alchemy", "rails"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-alchemy:toggle"
+  },
+  "repository": "https://github.com/AlchemyCMS/atom-alchemy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

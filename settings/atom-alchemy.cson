@@ -1,0 +1,53 @@
+'.source.yaml':
+  'autocomplete':
+    'symbols':
+      'builtins':
+        'suggestions': [{
+          'type': 'constant'
+          'snippet': 'EssenceText'
+          'rightLabel': 'EssenceText'
+          'description': 'A editable single line of text.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencetext'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceRichtext'
+          'rightLabel': 'EssenceText'
+          'description': 'For managing multiple lines of rich text.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencerichtext'
+        },{
+          'type': 'constant'
+          'snippet': 'EssencePicture'
+          'rightLabel': 'EssencePicture'
+          'description': 'A picture with image cropper.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencepicture'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceSelect'
+          'rightLabel': 'EssenceSelect'
+          'description': 'A selection of values.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essenceselect'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceBoolean'
+          'rightLabel': 'EssenceBoolean'
+          'description': 'A checkbox.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essenceboolean'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceHtml'
+          'rightLabel': 'EssenceHtml'
+          'description': 'An unescaped html body.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencehtml'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceDate'
+          'rightLabel': 'EssenceDate'
+          'description': 'An date value.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencedate'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceLink'
+          'rightLabel': 'EssenceLink'
+          'description': 'Stores a link.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencelink'
+        }]
