@@ -11,7 +11,7 @@
         },{
           'type': 'constant'
           'snippet': 'EssenceRichtext'
-          'rightLabel': 'EssenceText'
+          'rightLabel': 'EssenceRichtext'
           'description': 'For managing multiple lines of rich text.'
           'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencerichtext'
         },{
