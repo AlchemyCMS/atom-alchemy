@@ -50,4 +50,10 @@
           'rightLabel': 'EssenceLink'
           'description': 'Stores a link.'
           'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencelink'
+        },{
+          'type': 'constant'
+          'snippet': 'EssenceFile'
+          'rightLabel': 'EssenceFile'
+          'description': 'Stores a link to an attachment.'
+          'descriptionMoreURL': 'http://guides.alchemy-cms.com/edge/essences.html#essencefile'
         }]
